@@ -1,30 +1,30 @@
 # Donuts
 
-This is a bakery website I worked on while practicing web development. I used it to review HTML, CSS, JavaScript, and some design ideas.
+A bakery website I created to practice HTML, CSS and JavaScript
 
-## About the Project
+## About
 
-The website is designed for a bakery called Donuts. It includes different sections for the bakery, its services, products, and other information.
+The website has sections, for the bakery, including its products and services
 
-I used this project to practice writing code, working with page layouts, styling elements, and adding small interactive features with JavaScript.
+## Screenshot
+![Uploading Screenshot 2026-10-23 115224.png…]()
+![Uploading Screenshot 2026-10-23 115127.png…]()
+
+
+## Languages
+
+- HTML
+
+- CSS
+
+- JavaScript
 
 ## What I Practiced
 
-- **HTML** — building the page structure and adding content.
-- **CSS** — styling the website, working with layouts, colors, fonts, images, and hover effects.
-- **JavaScript** — adding button interactions and changing item quantities.
-- **Web Design** — practicing how to organize sections and combine different visual elements.
+I practiced styling the page with CSS using images and hover effects and adding JavaScript interactions
 
-## Technologies
+## Challenges
 
-- HTML
-- CSS
-- JavaScript
+I spent time putting the page sections and fixing bugs in the JavaScript
 
-## What I Learned
-
-This project helped me review what I had learned before and practice using HTML, CSS, and JavaScript together in one website. It also gave me more practice with styling and turning a design idea into a webpage.
-
-## Note
-
-This is a practice project made for learning and reviewing web development skills. 
+Made by Nouran Ehab
